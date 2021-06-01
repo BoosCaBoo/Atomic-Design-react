@@ -10,6 +10,7 @@ const SButton = styled.button`
   background-color: #11999e;
   color: #fff;
   padding: 6px 24px;
+  margin: 15px;
   border: none;
   border-radius: 999px;
   outline: none;
